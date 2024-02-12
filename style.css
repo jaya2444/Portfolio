@@ -1,0 +1,141 @@
+ nav {
+     font-size: x-large;
+     display: flex;
+     justify-content: space-between;
+     height: 70px;
+     width: 95vw;
+     background-color: lightgray;
+     margin-top: 0;
+     margin-left: 50px;
+ }
+
+ .btn {
+     width: 90px;
+     height: 40px;
+     justify-content: center;
+     margin-top: 15px;
+     margin-right: 15px;
+ }
+
+ #ui {
+     border-radius: 50px;
+     margin-left: 20px;
+     background-color: blue;
+     color: white;
+     height: 25px;
+     width: 80px;
+ }
+
+ .box3 {
+     color: white;
+     background-color: orangered;
+     width: 100px;
+     height: 40px;
+ }
+
+ footer {
+     background-color: black;
+     height: 300px;
+     width: 55%;
+     color: white;
+
+
+ }
+
+ button {
+     color: black;
+     margin: 2px;
+     border: white 1px;
+
+ }
+
+ section {
+     height: 500px;
+     width: 100%;
+     background-color: white;
+     display: flex;
+
+
+ }
+
+ .a {
+     height: 440px;
+     width: calc(50%);
+     background-color: white;
+     margin-left: 50px;
+ }
+
+ .b {
+     height: 209%;
+     width: calc(50%);
+     background-color: antiquewhite;
+     display: flex;
+     background-image: url(https://media.istockphoto.com/id/1417355465/photo/portrait-of-a-smiling-asian-businesswoman-standing-with-arms-folded-and-looking-at-camera.webp?b=1&s=170667a&w=0&k=20&c=dm121YYIXmq6Cpmf6OFBueKS_11BBzVt03T3KMpHWBo=);
+     background-repeat: no-repeat;
+     background-size: 100% 64%;
+     align-items: center;
+     flex-direction: column;
+     gap: 9vh;
+     padding-top: 1.5vh;
+ }
+
+ .foot {
+     background-color: black;
+     /* height: 100px; */
+     width: 50%;
+     color: white;
+     display: flex;
+     margin: -55px 00px 00px 00px;
+     height: 190px;
+     width: 950px;
+     padding: 20px;
+
+
+ }
+
+ #z {
+     width: 100%;
+     height: 63%;
+ }
+
+ .n {
+     margin-left: 150px;
+ }
+
+ .k {
+     background-color: yellow;
+     color: black;
+     width: 150px;
+     height: 40px;
+     padding: 10px;
+
+
+ }
+
+ .c {
+     height: 30px;
+     width: 100px;
+     display: flex;
+ }
+
+ .e {
+     margin-left: 150px;
+     margin-top: -30.5px;
+ }
+
+ .bicon {
+     padding-right: 300px;
+     font-size: 50px;
+ }
+
+ .icon {
+     padding-left: 700px;
+
+     font-size: 50px;
+ }
+
+ button {
+     width: 200px;
+     height: 40px;
+
+ }
